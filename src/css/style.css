@@ -1,0 +1,63 @@
+.Logo{
+    height: 120px;
+    width: 100px;
+    padding-top: 10px;
+    border-radius: 10px;
+    }
+
+    .container{
+        margin-top: 150px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .cover{
+        background-color: white;
+        width: 30em;
+        height: 30em;
+        position: relative;
+        border-radius: 1em;
+        box-shadow: 0 0.188em 1.550em rgb(164, 99, 154);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+.list-group a:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Mengisi seluruh tinggi layar */
+  }
+
+  .side{
+    background-color: #6499E9;
+  }
+  .lside{
+    background-color: #6499E9;
+  }
+  .list-group-item{
+    background-color: #BEFFF7;
+  }
+  .container-fluid{
+    background-color: #9EDDFF;
+  }
+
+  .bgside{
+    margin-left: -12px;
+  }
+  .bghome{
+    margin-left: -100px;
+    padding-top: 50px;
+  }
+  .custom-width {
+    width: 25%;
+}
