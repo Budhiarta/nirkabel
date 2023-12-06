@@ -49,7 +49,7 @@ function Chart() {
     return (
         <div style={
             {
-                width: '900px',
+                width: '500px',
                 height: '300px'
             }
         }>
