@@ -15,7 +15,7 @@ const Sidebar = () => {
         </div>
         <hr className='text-dark'/>
         <div className='list-group list-group-flush'>
-          <a href='/dashboardu' className='list-group-item py-2 my-1'>
+          <a href='dashboardu' className='list-group-item py-2 my-1'>
             <span className='fs-5'>Home</span>
           </a>
           <a href="" className='list-group-item py-2 my-1'>
